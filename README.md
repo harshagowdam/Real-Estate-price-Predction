@@ -54,27 +54,8 @@ RMSE: ₹2.1 Lakhs (example)
 Clone the repo:
 
 bash
-Copy
-Edit
-git clone https://github.com/yourusername/real-estate-price-prediction.git
-cd real-estate-price-prediction
 Install dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Flask app:
-
-bash
-Copy
-Edit
-python app.py
-Open your browser and visit:
-
-arduino
-Copy
-Edit
 http://localhost:5000
 📈 Predict Price:
 Select location
